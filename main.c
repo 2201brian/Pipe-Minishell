@@ -16,7 +16,7 @@ int main(){
 
 		pid_t pid = fork();
 		if(!pid){
-			//execute(comando);  //funcion de los manes 
+			
 		}else{
 			wait(NULL);
 		}
@@ -24,3 +24,4 @@ int main(){
 	}
 	return 0;
 }
+
