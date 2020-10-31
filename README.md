@@ -6,4 +6,4 @@ Profesor:John Sanabria
 Integrantes del grupo:\
 Brian David Moreno Cardona 1830990\
 Fabián Andrés Urrutia Chaverra 1826819\
-José David Izquierdo Gomez\
+José David Izquierdo Gomez 1831358
